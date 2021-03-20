@@ -1,0 +1,4 @@
+e um valor inteiro que indica a quantidade de argumentos que foram passados ao chamar o programa.
+e um valor inteiro que a de argumentos que foram passados ao chamar o programa.
+e um valor inteiro que de argumentos que foram passados ao chamar o programa.
+e um valor inteiro que indica a quantidade de argumentos que foram passados ao chamar o programa.
